@@ -1,15 +1,15 @@
 
 ![foo](https://media-exp1.licdn.com/dms/image/C5616AQF7PVPZjXF7lg/profile-displaybackgroundimage-shrink_350_1400/0/1658770970578?e=1666828800&v=beta&t=34arx8tm_M59YZXUNHnzENIxcvczIQxoEntknMg4OyY)
 <h1 align="center">Hi 👋, I'm Md. Sadikur Rahman</h1>
-<h3 align="center">Jr. Software Engineer
+<h3 align="center">🧑‍💼 Junior Software Developer</h3>
 
-- 🌱 I’m currently learning **Node.js / Express.js / MongoDB**
+ 🛠️ Building full‑stack apps with. **Next.js/ TypeScript/ MongoDB/ Tailwind CSS/ and Node/Express**
 
-- 🤝 I’m looking for help with **Back End Technologies**
+🤝 I’m looking for help with **Back End Technologies**
 
-- 💬 Ask me about **Web Development**
+💬 Ask me about **Web Development**
 
-- 📫 How to reach me **Sadikurrahman728@gmail.com**
+📫 How to reach me **Sadikurrahman728@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
